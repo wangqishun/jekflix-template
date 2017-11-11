@@ -3,7 +3,7 @@ title: Technical Road | A theme for Jekyll
 email: 277803777@qq.com
 description: My Code and my blog.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://wangqishun.github.io/" # the base hostname & protocol for your site
+url: "https://wangqishun.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
